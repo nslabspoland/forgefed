@@ -1,24 +1,13 @@
 # ForgeFed
 
-<a href="https://codeberg.org/ForgeFed/ForgeFed">
-    <img alt="Get it on Codeberg" src="https://codeberg.org/Codeberg/GetItOnCodeberg/media/branch/main/get-it-on-neon-blue.png" height="60">
-</a>
-
-ForgeFed is an ActivityPub-based federation protocol for software forges. You
-can read more about ForgeFed and the protocol specification on our
-[website][Website].
+ForgeFed is **mock** of ActivityPub-based federation protocol for software forges.
 
 ## Contributing
 
-There's a huge variety of tasks to do! Come talk with us on the [forum][] or
-[chat][]. More eyes going over the spec are always welcome! And feel free to
-open an issue if you notice missing details or unclear text or have improvement
-suggestions or requests.
+There's a huge variety of tasks to do! Come open an issue.
 
-However, to maintain a manageable working environment, we do reserve the issue
-tracker for *practical, actionable work items*. If you want to talk first to
-achieve more clarity, we prefer you write to us on the [forum][] or [chat][], and
-opening an issue may come later.
+However, to maintain user-friendly working environment, we do reserve the issue
+tracker for *practical, actionable work items*.
 
 If you wish to join the work on the ForgeFed specification, here are some
 technical but important details:
@@ -37,14 +26,6 @@ Important files in this repo to know about:
 
 - The file `resources.md` lists which team members have access to which project
   resources, openness and transparency are important to us!
-- The actual specification source texts are in the `spec/` directory
-- JSON-LD context files are in the `rdf/` directory
-
-## Repo mirrors
-
-* [ForgeFed on Notabug][Notabug]
-* [ForgeFed on Pagure][Pagure]
-* [ForgeFed on GitHub][GitHub]
 
 ## Website build instructions
 
@@ -53,27 +34,4 @@ repository. See `./build.sh` for more details.
 
 ## License
 
-All contents of this repository are are freely available under the
-[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication][cc0].
-
-The ForgeFed logo was created by [iko][].
-
-## Historical resources
-
-ForgeFed started its life on a [mailing list][Mailing-list]. The old ForgeFed forum at
-talk.feneas.org can be viewed via the Internet Archive's
-[Wayback Machine][Old-forum].
-
-[Website]: https://forgefed.org
-[Forum]:   https://socialhub.activitypub.rocks/c/software/forgefed
-[Chat]:    https://matrix.to/#/#forgefed:libera.chat
-
-[Notabug]: https://notabug.org/peers/forgefed/
-[Pagure]:  https://pagure.io/forge-fed/forge-fed
-[Github]:  https://github.com/forgefed/forgefed
-
-[Mailing-list]: https://framalistes.org/sympa/arc/git-federation
-[Old-forum]:    https://web.archive.org/web/20210306224235/https://talk.feneas.org/c/forgefed/10
-
-[cc0]: https://creativecommons.org/publicdomain/zero/1.0/
-[iko]: https://iko.im/
+AGPL
